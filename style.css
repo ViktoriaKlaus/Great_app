@@ -1,0 +1,76 @@
+body {
+	font-family: 'Caveat', cursive;
+	text-align: center;
+	background-color:#fafafa;
+	margin: 0;
+
+}
+
+h1,h2 {
+
+	font-family: 'Caveat', cursive;
+}
+
+a {
+	text-decoration: none;
+	color: #494949;
+}
+
+a:hover {
+	opacity: 0.7;
+}
+
+h1 {
+	font-size: 150px;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+p {
+	font-size: 40px;
+}
+
+img {
+
+	width: 100px; height: 100px
+}
+
+footer {
+	font-size: 20px;
+}
+
+
+.card-here {
+	text-align: center;
+	margin: 10px;
+
+	}
+
+
+#banner {
+
+	padding: 40px 10px;
+	background-image: url("https://images.pexels.com/photos/1650035/pexels-photo-1650035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	padding: 50px 0px;
+	margin:0;
+	background-size: cover;
+	background-position: center;
+	color: black;
+}
+
+#button a{
+	padding: 14px 100px;
+	color:#2b2b28;
+	background-color:#dbe9b7;
+	text-align: center;
+	height: 20px;
+	width: 250px;
+	border-radius: 2px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	font-size: 20px;
+	font-family: 'Amatic SC', cursive, bold;
+	font-style: none;
+}
+
